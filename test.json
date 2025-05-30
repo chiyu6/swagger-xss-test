@@ -1,0 +1,10 @@
+{
+    "url": "https://cdn.jsdelivr.net/gh/chiyu6/swagger-xss-test/test.yaml",
+    "urls": [{
+        "url": "https://cdn.jsdelivr.net/gh/chiyu6/swagger-xss-test/test.yaml",
+        "name": "Foo"
+    },{
+        "url": "https://cdn.jsdelivr.net/gh/chiyu6/swagger-xss-test/test2.yaml",
+        "name": "Foo2"
+    }]
+}
